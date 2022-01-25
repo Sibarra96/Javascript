@@ -1,3 +1,8 @@
+const containers = document.getElementsByClassName('container');
+containers[3].classList.add('d-none');
+
+console.log(containers);
+
 /*
 const values_1 = ['a','b','c','d','e'];
 const values_2 = ['a','bbb','ccc','d','e'];
