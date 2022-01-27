@@ -2,11 +2,15 @@
   "name": "fundamentals-intermediate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev3": "nodemon 3-languajeFeatures.js",
+    "dev4": "nodemon 4-operators.js"
   },
   "keywords": [],
   "author": "Sergio Ibarra <cheibarre03@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
