@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "dev3": "nodemon 3-languajeFeatures.js",
-    "dev4": "nodemon 4-operators.js"
+    "dev4": "nodemon 4-operators.js",
+    "dev5": "nodemon 5-functionsAndScope.js"
   },
   "keywords": [],
   "author": "Sergio Ibarra <cheibarre03@gmail.com>",
